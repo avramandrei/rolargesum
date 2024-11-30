@@ -8,6 +8,12 @@ You can read more about the dataset in the following paper: work in progress...
 
 ## Loading
 
+Install the `datasets` library via pip:
+
+```bash
+pip install datasets
+```
+
 To load the dataset, simply run:
 
 ```Python
