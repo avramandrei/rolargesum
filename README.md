@@ -19,14 +19,14 @@ dataset = load_dataset("avramandrei/rolargesum")
 Each sample respects the following format:
 ```json
 {
-  "text": ...,
-  "summary": ...,
-  "title": ...,
-  "keywords": ...,
-  "dialect": ...,
-  "topics": ...,
-  "url": ...,
-  "author": ...
+  "text": "This is the main text of the article",
+  "summary": "This is the summary",
+  "title": "Title of article",
+  "keywords": "keyword1,keyword2,keyword3",
+  "dialect": "romanian",
+  "topics": "politica",
+  "url": "www.example.com",
+  "author": "John Doe"
 }
 ``` 
 
