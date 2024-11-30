@@ -1,6 +1,6 @@
 # RoLargeSum
 
-This repository contains RoLargeSum, a dataset with 615,679 articles and their corresponding summary, title, keywords, topic and dialect (either `romanian` or `moldavian`).
+This repository hosts RoLargeSum, a comprehensive dataset comprising 615,679 articles along with their corresponding summaries, titles, keywords, topics, and dialect classifications (either `romanian` or `moldavian`).
 
 You can read more about the dataset in the following paper: work in progress...
 
