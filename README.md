@@ -37,4 +37,11 @@ Each sample respects the following format:
 ``` 
 
 ## Citation
-Work in progress.
+```
+@article{avram2024rolargesum,
+  title={RoLargeSum: A Large Dialect-Aware Romanian News Dataset for Summary, Headline, and Keyword Generation},
+  author={Avram, Andrei-Marius and Timpuriu, Mircea and Iuga, Andreea and Matei, Vlad-Cristian and T{\u{a}}iatu, Iulian-Marius and G{\u{a}}in{\u{a}}, Tudor and Cercel, Dumitru-Clementin and Pop, Florin and Cercel, Mihaela-Claudia},
+  journal={arXiv preprint arXiv:2412.11317},
+  year={2024}
+}
+```
