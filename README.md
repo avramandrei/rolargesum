@@ -4,7 +4,7 @@ This repository hosts RoLargeSum, a comprehensive dataset comprising 615,679 art
 
 You can read more about the dataset in the following paper: https://arxiv.org/abs/2412.11317
 
-**Note**: The dataset is available for research purposes upon request by either emailing us at: dumitru.cercel@upb.ro, or by requesting access on Huggingface at: https://huggingface.co/datasets/avramandrei/rolargesum.
+**Note**: The dataset is available for research purposes upon request by emailing us at: dumitru.cercel@upb.ro. (p.s. don't forget to let us know what your HuggingFace username is, so we can grant you access)
 
 ## Loading
 
